@@ -12,7 +12,7 @@ then remove whatever node_modules directory you have already
     
 Then, clone this repository
 
-    git clone git@github.com:yale-mgt-656/mgt656-fall2015-node-modules.git node_modules
+    git clone https://github.com/yale-mgt-656/mgt656-fall2015-node-modules.git node_modules
     
 Then, you're done. You should be able to run the app on cloud9.
 
